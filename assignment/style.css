@@ -1,0 +1,17 @@
+.banner {
+  background-color: #27422c;
+  color: #fffecc;
+  text-align: center;
+  padding: 10px;
+}
+
+.subBanner {
+  background-color: #e3e3e3;
+  padding: 1em;
+}
+
+body {
+  background-image: url("record.png");
+  background-repeat: repeat;
+  margin: 0;
+}
